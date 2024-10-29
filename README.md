@@ -1,6 +1,4 @@
-Here’s a basic README template for your LeetCode practice repository:
 
----
 
 # LeetCode Practice Repository
 
@@ -30,4 +28,4 @@ This repository is a way to track my LeetCode practice and progress over time. F
 
 ---
 
-This setup keeps it simple and easy to update as you add new solutions. You can expand the README with more details as you go along.
+
